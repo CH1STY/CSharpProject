@@ -1,0 +1,48 @@
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\bin\Debug\CSPharma.exe.config
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\bin\Debug\CSPharma.exe
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\bin\Debug\CSPharma.pdb
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.csprojAssemblyReference.cache
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.AdminForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.AppointmentForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.AppointmentListForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.CartForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.ChangeAdminPasswordForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.ChangeUserPasswordForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.DoctorForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.InventoryForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.LoginForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.PharmacistForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.ReceptionistForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.SaleDetails.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.SalesTableForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.GeneralUpdateForm.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.UserRegistration.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.Properties.Resources.resources
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.csproj.GenerateResource.cache
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.csproj.CoreCompileInputs.cache
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.exe
+C:\Users\Fayyadh Kabir\source\repos\CSPharmaSln\CSPharma\obj\Debug\CSPharma.pdb
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\bin\Debug\CSPharma.exe.config
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\bin\Debug\CSPharma.exe
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\bin\Debug\CSPharma.pdb
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.csprojAssemblyReference.cache
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.AdminForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.AppointmentForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.AppointmentListForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.CartForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.ChangeAdminPasswordForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.ChangeUserPasswordForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.DoctorForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.InventoryForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.LoginForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.PharmacistForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.ReceptionistForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.SaleDetails.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.SalesTableForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.GeneralUpdateForm.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.GUI.UserRegistration.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.Properties.Resources.resources
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.csproj.GenerateResource.cache
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.csproj.CoreCompileInputs.cache
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.exe
+C:\Users\Chisty\Desktop\GIT\CSPharmaProject\CSPharmaSln\CSPharma\obj\Debug\CSPharma.pdb
